@@ -13,9 +13,9 @@ This GitHub repository will demonstrate the work done in Research Internship whi
     <li>
       <a href="#Stage 1 :- What to do, Why to do and How to do">Stage 1 :- What to do, Why to do and How to do</a>
       <ul>
-        <li><a href="#INTRODUCTION">INTRODUCTION</a></li>
-        <li><a href="#P ROBLEM STATEMENT AND METHODOLOGY">P ROBLEM STATEMENT AND METHODOLOGY</a></li>
-        <li><a href="#CONCLUSIONS">CONCLUSIONS</a></li>
+        <li><a href="#Introduction">Introduction</a></li>
+        <li><a href="#Problem Statement And Methodology">Problem Statement And Methodology</a></li>
+        <li><a href="#Conclusions">Conclusions</a></li>
       </ul>
       </li>
     <li>
